@@ -1,0 +1,38 @@
+.rstart{
+text-align: center;
+color: white;
+padding: 196px;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    background-color: teal;
+    font-family: "Poppins", sans-serif;
+  }
+
+  .anynumber{
+    border-color: white;
+    border: 1px solid  white;
+    color: white;
+    
+  }
+
+  ::placeholder {
+    color: white;
+    text-align: center;
+    opacity: 1; /* Firefox */
+    cursor: crosshair ;
+  }
+  .submit{
+    border: 1px solid white;
+    color: white;
+    position: relative;
+    top: 12px;
+  }
+
+  p.message1
+  {
+    position: relative;
+    top: 12px;
+  }
